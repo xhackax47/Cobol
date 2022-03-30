@@ -7,8 +7,9 @@
        WORKING-STORAGE SECTION.
        77 a PIC 9(15).
 
-      * pla = Plage d'affichage & pls = Plage de saisie
+      * Section d'affichage
        SCREEN SECTION.
+      * pla = Plage d'affichage & pls = Plage de saisie
        1 pls.
            2 BLANK SCREEN.
            2 LINE 6 COL 10 VALUE 'Saisir une valeur : '.
