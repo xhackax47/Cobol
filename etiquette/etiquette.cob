@@ -1,4 +1,4 @@
-      * Exemple de code de saisie pour calcul avec utilisation des étiquettes
+      * Exemple de code de saisie avec utilisation des étiquettes
        IDENTIFICATION DIVISION.
        PROGRAM-ID. ExempleEtiquette.
 
