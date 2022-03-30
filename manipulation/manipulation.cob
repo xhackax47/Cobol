@@ -1,5 +1,6 @@
       * Exemple de code de manipulation en COBOL
        IDENTIFICATION DIVISION.
+      * Nom du programme
        PROGRAM-ID. Manipulation.
        
       * Division et sections des variables

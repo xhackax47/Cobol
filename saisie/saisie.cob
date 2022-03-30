@@ -1,4 +1,4 @@
-      * Exemple code structuré
+      * Exemple de code de saisie
        IDENTIFICATION DIVISION.
       * Nom du programme
        PROGRAM-ID. Saisie.
