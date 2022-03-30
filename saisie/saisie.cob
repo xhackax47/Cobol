@@ -1,7 +1,7 @@
       * Exemple code structuré
        IDENTIFICATION DIVISION.
       * Nom du programme
-       PROGRAM-ID. WhatsYourName.
+       PROGRAM-ID. Saisie.
            
       * Division et sections des variables
        DATA DIVISION.
