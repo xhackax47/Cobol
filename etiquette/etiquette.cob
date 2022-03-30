@@ -1,6 +1,6 @@
       * Exemple de code de saisie avec utilisation des étiquettes
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. ExempleEtiquette.
+       PROGRAM-ID. Etiquette.
 
       * Division et sections des variables
        DATA DIVISION.
