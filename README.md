@@ -1,6 +1,6 @@
 # Cobol
 
-Tutos cobol
+Ici vous pourrez trouvez tous les fichiers COBOL et executables générés par le compilateur lors de mon apprentissage de ce langage pour toutes sortes d'utilisations.
 
 ## Installer l'environnement
 
