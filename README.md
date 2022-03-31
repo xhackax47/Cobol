@@ -2,6 +2,8 @@
 
 Ici vous pourrez trouvez tous les fichiers COBOL et executables générés par le compilateur lors de mon apprentissage de ce langage pour toutes sortes d'utilisations.
 
+Tuto utilisé : https://zestedesavoir.com/tutoriels/685/la-programmation-cobol/739_les-bases-du-cobol/
+
 ## Installer l'environnement (GNUCobol Open Source)
 
 - On commence par télécharger et dézipper le dossier. 
