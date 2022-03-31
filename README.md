@@ -5,7 +5,7 @@ Ici vous pourrez trouvez tous les fichiers COBOL et executables générés par l
 ## Installer l'environnement
 
 - On commence par télécharger et dézipper le dossier. 
-[https://ci.appveyor.com/api/projects/GitMensch/gnucobol-3-x-win32-posix/artifacts/gnucobol-3.2-dev-MinGW-binaries%20(debug).zip?job=Environment:%20BUILD_TYPE=MSYS,%20BUILD_BIN=C:\MinGW\msys\1.0\bin]
+https://ci.appveyor.com/api/projects/GitMensch/gnucobol-3-x-win32-posix/artifacts/gnucobol-3.2-dev-MinGW-binaries%20(debug).zip?job=Environment:%20BUILD_TYPE=MSYS,%20BUILD_BIN=C:\MinGW\msys\1.0\bin
 
 - On va ensuite dans les variables d'environnement afin d'ajouter le dossier bin de GNUCOBOL afin de pouvoir utiliser le compilateur.
 
