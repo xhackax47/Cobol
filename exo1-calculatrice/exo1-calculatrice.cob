@@ -1,4 +1,4 @@
-      * Code Exo1Calcul en COBOL
+      * Code Exo1Calcul en COBOL : FAIRE UNE CALCULATRICE QUI PRENDS 2 CHIFFRE PAR VALEUR ET ADDITIONNE LES DEUX VALEURS
        IDENTIFICATION DIVISION.
       * Nom du programme       
        PROGRAM-ID. Exo1Calcul.
