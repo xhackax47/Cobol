@@ -2,7 +2,7 @@
 
 Ici vous pourrez trouvez tous les fichiers COBOL et executables générés par le compilateur lors de mon apprentissage de ce langage pour toutes sortes d'utilisations.
 
-## Installer l'environnement
+## Installer l'environnement (GNUCobol Open Source)
 
 - On commence par télécharger et dézipper le dossier. 
 [Fichiers Binaires GNUCobol](https://ci.appveyor.com/api/projects/GitMensch/gnucobol-3-x-win32-posix/artifacts/gnucobol-3.2-dev-MinGW-binaries%20(debug).zip?job=Environment:%20BUILD_TYPE=MSYS,%20BUILD_BIN=C:\MinGW\msys\1.0\bin)
