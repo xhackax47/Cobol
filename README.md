@@ -7,7 +7,7 @@ Ici vous pourrez trouvez tous les fichiers COBOL et executables générés par l
 - On commence par télécharger et dézipper le dossier. 
 [Fichiers Binaires GNUCobol](https://ci.appveyor.com/api/projects/GitMensch/gnucobol-3-x-win32-posix/artifacts/gnucobol-3.2-dev-MinGW-binaries%20(debug).zip?job=Environment:%20BUILD_TYPE=MSYS,%20BUILD_BIN=C:\MinGW\msys\1.0\bin)
 
-- On va ensuite dans les variables d'environnement afin d'ajouter le dossier bin de GNUCOBOL afin de pouvoir utiliser le compilateur.
+- On va ensuite dans les variables d'environnement afin d'ajouter le dossier bin de GNUCOBOL afin de pouvoir utiliser le compilateur et surtout la commande `cobc`.
 
 - Ensuite on paramètre le fichier de configuration grâce à la commande `set COB_CONFIG_DIR=C:\Program Files (x86)\gnucobol-2.2\config` (Adapter le dossier à votre chemin)
 
