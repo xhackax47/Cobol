@@ -13,7 +13,9 @@ Ici vous pourrez trouvez tous les fichiers COBOL et executables générés par l
 - Pour finir on teste avec la commande `cobc -V` pour vérifier que le compilateur COBOL est bien installé et reconnu par notre système.
 
 ## Commandes du compilateur 
+
+- Pour compiler un fichier COBOL structuré, on utilise `cobc -x file.cob`.
   
-- Pour compiler un fichier COBOL structuré, on utilise `cobc -x -o filename file.cob` (filename = Nom du fichier.exe en sortie et file.cob le nom du fichier code source) 
+- Pour compiler un fichier COBOL structuré en spécifiant le nom du fichier en sortie, on utilise `cobc -x -o filename file.cob` (filename = Nom du fichier.exe en sortie et file.cob le nom du fichier code source) 
 
 - Pour compiler un fichier COBOL Free format, on utilise `cobc -x -free file.cob`
