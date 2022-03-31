@@ -11,3 +11,5 @@ Ici vous pourrez trouvez tous les fichiers COBOL et executables générés par l
 - On compile du free format via la commande `cobc -x -free file.cob`
 
 - Ensuite on paramètre le fichier de configuration grâce à la commande `set COB_CONFIG_DIR=C:\Program Files (x86)\gnucobol-2.2\config` (Adapter le dossier à votre chemin)
+
+- Pour finir on teste avec la commande `cobc -V` pour vérifier que le compilateur COBOL est bien installé et reconnu par notre système.
