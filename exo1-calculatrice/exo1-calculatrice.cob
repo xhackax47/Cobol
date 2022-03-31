@@ -30,19 +30,22 @@
            
        PROCEDURE DIVISION.
        
-      * Calculs
-           
+      * Affichage plage de saisie 1
        DISPLAY pls1.
        ACCEPT saisie1.
+      * Affectation de la valeur à la variable
        MOVE num1 TO num1.
        
+      * Affichage plage de saisie 2
        DISPLAY pls2.
        ACCEPT saisie2.
+      * Affectation de la valeur à la variable
        MOVE num2 TO num2.
        
+      * Calculs
        COMPUTE resultat = num1 + num2.
        
-      * Affichage pla
+      * Affichage plage d'affichage
        DISPLAY pla.
        
        STOP RUN.
